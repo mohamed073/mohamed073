@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Ahmed Abd El Latif</h1>
-<h3 align="center">Building Autonomous Robotics Systems That Make a Real-World Impact</h3>
+<h3 align="center">Building safety-critical software for autonomous robotics and embedded systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamedahmed77" target="_blank">
@@ -15,58 +15,57 @@
 
 ---
 
-### 🤖 Focus Area: End-to-End Autonomous Robotics
+### 🎯 Focus Areas
 
-I design and implement **robust, safety-aware autonomous systems**—from low-level embedded control to high-level perception and navigation. My work bridges **real-time embedded software** and **robot intelligence**, with a strong emphasis on **deployable, field-ready solutions**.
+I engineer **integrated robotic systems** that solve real-world problems — from perception to control, running on resource-constrained hardware. My work sits at the intersection of:
 
-I’m driven to contribute to projects that **solve meaningful problems**—whether in logistics, mobility, or human-robot collaboration—and ultimately improve everyday life through reliable autonomy.
+#### 🤖 **Autonomous Robotics Systems**
+- Full-stack development using **ROS2** (Humble/Foxy)  
+- **SLAM**, **motion planning**, and **real-time control**  
+- Simulation & validation with **CARLA**, **Gazebo**, and **Nav2**  
+- Sensor integration (LiDAR, IMU, cameras) and state estimation  
+
+#### 💾 **Embedded Linux & C Systems**
+- Bare-metal and RTOS-aware **Embedded C** on ARM Cortex-M/A  
+- Custom **Linux BSPs** via **Yocto Project**  
+- **Device Tree (DTS)**, kernel modules, and cross-compilation toolchains  
+- Low-level debugging with **JTAG**, **GDB**, and **perf**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Key Tools & Technologies
 
 <p align="center">
-  <!-- Languages & Core -->
+  <!-- Languages -->
   <img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg" alt="C++" width="45" />
   <img src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-icon.svg" alt="C" width="45" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" />
+  <!-- Robotics -->
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS2" width="45" />
-  
-  <!-- Simulation & Autonomy Stack -->
   <img src="https://raw.githubusercontent.com/carla-simulator/carla/master/Docs/img/carla-logo.png" alt="CARLA" width="45" style="background:white;padding:2px;border-radius:4px;" />
-  <img src="https://nav2.github.io/assets/images/nav2_logo.svg" alt="Nav2" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gazebo_icon.svg" alt="Gazebo" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/openrobotics/openrobotics-icon.svg" alt="Open Robotics" width="45" />
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gazebo_logo.svg" alt="Gazebo" width="45" />
   <!-- Embedded & DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Embedded Linux" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" />
   <img src="https://www.vectorlogo.zone/logos/yoctoproject/yoctoproject-icon.svg" alt="Yocto" width="45" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg" alt="Bash" width="45" />
 </p>
-
-**Key Expertise**:
-- Full-stack **autonomous mobile robot (AMR)** development  
-- **ROS2** architecture: Nodes, Lifecycle, DDS, Navigation2 (Nav2), TF2  
-- **Perception & Localization**: SLAM (e.g., SLAM Toolbox, Cartographer), sensor fusion  
-- **Motion Planning & Control**: Path planning, trajectory optimization, real-time control loops  
-- **Embedded Linux**: Yocto-based BSPs, Device Tree (DTS), cross-compilation, low-level drivers  
-- **Simulation & Validation**: CARLA, Gazebo, RViz, ROS2 bag playback  
 
 ---
 
-### 🚀 Vision
+### 🌍 Mission
 
-I aim to join **mission-driven teams at companies like Tesla, SpaceX, or robotics innovators** where I can help build **scalable, trustworthy autonomous systems** that operate safely in complex real-world environments.
+I aim to contribute to **high-impact robotics projects** that improve everyday life — whether through safer autonomous vehicles, smarter logistics robots, or resilient embedded platforms.  
+I’m actively seeking **internships or roles** at companies like **Tesla**, **SpaceX**, or innovation-driven robotics teams where I can **integrate perception, planning, and embedded control into reliable, real-world systems**.
 
-> “Technology should serve humanity—not just demonstrate capability, but deliver tangible value.”
+📧 **Reach me**: [mohamedelsisi211@gmail.com](mailto:mohamedelsisi211@gmail.com)  
+📍 **Based in**: Egypt | Open to global opportunities
 
 ---
 
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed073&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed073&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed073&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed073&layout=compact&theme=radical&hide=html,css,javascript&hide_border=true" width="48%" />
 </p>

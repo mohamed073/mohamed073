@@ -1,71 +1,121 @@
-<h1 align="center">Hi, I'm Mohamed Ahmed Abd El Latif</h1>
-<h3 align="center">Building safety-critical software for autonomous robotics and embedded systems</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mohamed Abd El Latif - Robotics & Embedded Systems</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #151515;
+    color: #daf7dc;
+    margin: 20px;
+    line-height: 1.6;
+  }
+  h1, h2, h3 {
+    color: #ffc857;
+  }
+  a {
+    color: #8ac926;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  table {
+    width: 100%;
+    margin: 15px 0;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid #333;
+    text-align: left;
+  }
+  .center {
+    text-align: center;
+  }
+  .icons img {
+    width: 40px;
+    margin: 0 5px;
+    vertical-align: middle;
+  }
+</style>
+</head>
+<body>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohamedahmed77" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" />
-  </a>&nbsp;
-  <a href="https://github.com/mohamed073" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" />
-  </a>&nbsp;
-  <a href="mailto:mohamedelsisi211@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" />
-  </a>
+<h1>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" alt="Hi"/></h1>
+
+<h2>About Me</h2>
+<p>
+I am <strong>Mohamed Abd El Latif</strong>, passionate about autonomous robotics software and embedded systems. My expertise lies in control systems, SLAM, motion planning, embedded C, and embedded Linux development. I aim to contribute to innovative robotics and autonomous vehicle projects globally, including top companies like Tesla and SpaceX.
 </p>
 
----
+<h2>💻 Skills & Technologies</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Domains</th>
+      <th>Tools & Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Robotics Software</td>
+      <td>ROS2 (Humble), SLAM (RTAB-Map, Cartographer), Motion Planning (OMPL, MoveIt!)</td>
+    </tr>
+    <tr>
+      <td>Embedded Systems</td>
+      <td>Embedded C, AVR microcontrollers, Embedded Linux, RTOS</td>
+    </tr>
+    <tr>
+      <td>Programming</td>
+      <td>C, C++, Python</td>
+    </tr>
+    <tr>
+      <td>Simulation</td>
+      <td>Gazebo, RViz</td>
+    </tr>
+    <tr>
+      <td>Version Control</td>
+      <td>Git</td>
+    </tr>
+    <tr>
+      <td>Development Environment</td>
+      <td>Linux (Ubuntu), Visual Studio Code</td>
+    </tr>
+  </tbody>
+</table>
 
-### 🎯 Focus Areas
+<h2>🚀 Projects & Experience Highlights</h2>
+<ul>
+  <li>Developed ROS2 packages for autonomous robot navigation and manipulation, including SLAM integration and motion planning.</li>
+  <li>Implemented real-time embedded control systems on AVR microcontrollers using low-level C programming.</li>
+  <li>Created simulation environments in Gazebo integrated with ROS2 for testing autonomous behaviors.</li>
+  <li>Experience in embedded Linux for device drivers and real-time processing on ARM platforms.</li>
+  <li>Passionate about system architecture design combining hardware-software co-design in robotics.</li>
+</ul>
 
-I engineer **integrated robotic systems** that solve real-world problems — from perception to control, running on resource-constrained hardware. My work sits at the intersection of:
+<h2 class="center">📊 GitHub Stats</h2>
+<p class="center"><img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="Mohamed's GitHub stats" /></p>
 
-#### 🤖 **Autonomous Robotics Systems**
-- Full-stack development using **ROS2** (Humble/Foxy)  
-- **SLAM**, **motion planning**, and **real-time control**  
-- Simulation & validation with **CARLA**, **Gazebo**, and **Nav2**  
-- Sensor integration (LiDAR, IMU, cameras) and state estimation  
-
-#### 💾 **Embedded Linux & C Systems**
-- Bare-metal and RTOS-aware **Embedded C** on ARM Cortex-M/A  
-- Custom **Linux BSPs** via **Yocto Project**  
-- **Device Tree (DTS)**, kernel modules, and cross-compilation toolchains  
-- Low-level debugging with **JTAG**, **GDB**, and **perf**
-
----
-
-### 🛠️ Key Tools & Technologies
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg" alt="C++" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-icon.svg" alt="C" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" />
-  <!-- Robotics -->
-  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS2" width="45" />
-  <img src="https://raw.githubusercontent.com/carla-simulator/carla/master/Docs/img/carla-logo.png" alt="CARLA" width="45" style="background:white;padding:2px;border-radius:4px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gazebo_logo.svg" alt="Gazebo" width="45" />
-  <!-- Embedded & DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/yoctoproject/yoctoproject-icon.svg" alt="Yocto" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="45" />
+<h2 class="center">🔗 Connect with Me</h2>
+<p class="center">
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">LinkedIn</a> | 
+  <a href="https://twitter.com/YourTwitter" target="_blank">Twitter</a> | 
+  <a href="mailto:youremail@example.com">Email</a>
 </p>
 
----
+<h2>🧩 What I’m Learning & Exploring</h2>
+<ul>
+  <li>Advanced SLAM algorithms and sensor fusion techniques.</li>
+  <li>Embedded real-time operating systems and multi-threaded embedded software.</li>
+  <li>Machine learning applications in autonomous robotics.</li>
+</ul>
 
-### 🌍 Mission
-
-I aim to contribute to **high-impact robotics projects** that improve everyday life — whether through safer autonomous vehicles, smarter logistics robots, or resilient embedded platforms.  
-I’m actively seeking **internships or roles** at companies like **Tesla**, **SpaceX**, or innovation-driven robotics teams where I can **integrate perception, planning, and embedded control into reliable, real-world systems**.
-
-📧 **Reach me**: [mohamedelsisi211@gmail.com](mailto:mohamedelsisi211@gmail.com)  
-📍 **Based in**: Egypt | Open to global opportunities
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed073&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed073&layout=compact&theme=radical&hide=html,css,javascript&hide_border=true" width="48%" />
+<h2>✨ Fun Fact</h2>
+<p>
+I’m always curious about how the intersection of AI & hardware shapes the future of autonomous systems.
 </p>
+
+<h2>📫 How to

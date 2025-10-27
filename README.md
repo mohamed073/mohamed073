@@ -5,45 +5,43 @@
 <a href="https://github.com/mohamed073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="mohamed073" height="30" width="30" /></a>&nbsp;
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612f67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🎓 Computer and Systems Engineering Student at Fayoum University (Sep 2020 – Dec 2025)
 - 🏢 Passionate about Autonomous Systems, Embedded Linux, and Robotics Software
 - 📍 Based in Egypt | 📞 +20 101 770 0160
-- 💻 I use daily: **C++**, **Python**, **C**, **Bash**, **ROS2**, **Embedded Linux**
+- 💻 I use daily: **C++**, **Python**, **C**, **Bash**, **ROS/ROS2**, **Embedded Linux**
 - 🔭 Currently working on: Autonomous Mobile Robots (AMRs) as Head and Instructor at 3R Student Activity
-- 🌱 Learning more about: Autonomous Navigation, Perception Systems, Motion Planning
-- 💬 Talk to me about: Robotics, Autonomous Systems, Embedded Linux, ROS2, Simulation
+- 🌱 Learning more about: Yocto Project, Device Tree (DTS), Embedded Systems
+- 💬 Talk to me about: Robotics, Autonomous Systems, Embedded Linux, Competitive Programming
 - ⚡ Fun fact: I led my team to win 3rd place overall and 1st in Best Innovation at Electric Vehicle Rally Competition
+- 🏆 Achievements: IEEE CASS Student Design Competition participant, EVER Competition award winner
 
-### 🧑‍💻 Autonomous Systems & Robotics Tech Stack:
+### 🧑‍💻 Tech I Work On:
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="cplusplus" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/gazebosim/gazebosim-icon.svg" alt="gazebo" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/yoctoproject/yoctoproject-icon.svg" alt="yocto" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/embedded/embedded-icon.svg" alt="embedded" width="55" height="55"/>
 </p>
 
-### 🚀 Robotics & Autonomous Technologies:
-- **Robot Operating System (ROS/ROS2)**
-- **CARLA Simulator** for autonomous driving research
-- **Gazebo** for robot simulation
-- **OpenCV** for computer vision
-- **SLAM** (Simultaneous Localization and Mapping)
-- **Path Planning & Navigation** algorithms
-- **Sensor Fusion** (LiDAR, Camera, IMU)
-- **Control Systems** for autonomous vehicles
-- **Embedded Linux** for robotic systems
-- **Real-time Systems** for autonomous applications
+### 🚀 Projects & Leadership:
+- **Head & Instructor** at 3R Student Activity (Jan 2025 – Present)
+  - Organize and lead team in autonomous mobile robot development
+  - Design and deliver technical training on robotics fundamentals
+
+- **IEEE CASS Student Design Competition** (Jan 2025)
+  - Developed Water Quantity Management System using Embedded Systems and IoT
+  - Designed algorithms for real-time water tank monitoring and pipeline leak detection
+
+- **Electric Vehicle Rally Competition** (Apr 2024 – May 2024)
+  - Contributed to low-voltage embedded system design
+  - Team secured 3rd place overall and 1st in Best Innovation award
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
@@ -68,4 +66,4 @@
 
 ---
 
-*"The real problem is not whether machines think but whether men do."* - B.F. Skinner
+*"The engineer's first problem in any design situation is to discover what the problem really is."* - Unknown

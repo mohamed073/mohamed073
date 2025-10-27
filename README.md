@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏢 Passionate about Autonomous Systems, Embedded Linux, and Robotics Software
-- 🌱 Learning more about: Yocto Project, Device Tree (DTS), Embedded Systems
+- 🌱 Learning more about: Yocto Project, Device Tree (DTS), Path Planning & Navigation algorithms
 - 💬 Talk to me about: Robotics, Autonomous Systems, Embedded Linux, Competitive Programming
 
 ### 🧑‍💻 Tech I Work On:
@@ -18,10 +18,13 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/yoctoproject/yoctoproject-icon.svg" alt="yocto" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/embedded/embedded-icon.svg" alt="embedded" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/freertos/freertos-icon.svg" alt="rtos" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gazebosim/gazebosim-icon.svg" alt="gazebo" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/carla/carla-icon.svg" alt="carla" width="55" height="55"/> 
 </p>
 
 ---

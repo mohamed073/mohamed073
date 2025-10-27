@@ -1,5 +1,7 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
+<div align="center">
+  <h1>Hi I'm Mohamed <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" /></h1>
+</div>
+<p align="center">    
 <a href="https://linkedin.com/in/mohamedahmed77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamedahmed77" height="30" width="30" /></a>&nbsp;
 <a href="mailto:mohamedelsisi211@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mohamedelsisi211@gmail.com" height="30" width="30" /></a>&nbsp;
 <a href="https://github.com/mohamed073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="mohamed073" height="30" width="30" /></a>&nbsp;
@@ -35,6 +37,5 @@
 
 ⏳ **Year Progress:** { ████████████████████████▁▁▁▁▁▁ } 81.93% as on ⏰ 27-Oct-2025
 
----
 
-*"The engineer's first problem in any design situation is to discover what the problem really is."* - Unknown
+

@@ -25,8 +25,6 @@
       <img src="https://www.vectorlogo.zone/logos/embedded/embedded-icon.svg" alt="embedded" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/freertos/freertos-icon.svg" alt="rtos" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gazebosim/gazebosim-icon.svg" alt="gazebo" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/carla/carla-icon.svg" alt="carla" width="55" height="55"/> 
 </p>
 
 ---

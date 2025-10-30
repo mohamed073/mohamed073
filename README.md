@@ -33,7 +33,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed073&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed073&theme=dark)](https://git.io/streak-stats)
 
-⏳ **Year Progress:** { ████████████████████████▁▁▁▁▁▁ } 81.93% as on ⏰ 27-Oct-2025
 
 
 

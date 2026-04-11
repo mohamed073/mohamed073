@@ -16,14 +16,10 @@
 
 ### 🧑‍💻 Tech I Work On:
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="cplusplus" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/yoctoproject/yoctoproject-icon.svg" alt="yocto" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/embedded/embedded-icon.svg" alt="embedded" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/freertos/freertos-icon.svg" alt="rtos" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gazebosim/gazebosim-icon.svg" alt="gazebo" width="55" height="55"/>
 </p>
 

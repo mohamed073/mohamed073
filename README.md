@@ -10,24 +10,15 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏢 Passionate about Autonomous Systems, Embedded Linux, and Robotics Software
-- 🌱 Learning more about: Yocto Project, Device Tree (DTS), Path Planning & Navigation algorithms
-- 💬 Talk to me about: Robotics, Autonomous Systems, Embedded Linux, Competitive Programming
-
-### 🧑‍💻 Tech I Work On:
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/yoctoproject/yoctoproject-icon.svg" alt="yocto" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/gazebosim/gazebosim-icon.svg" alt="gazebo" width="55" height="55"/>
-</p>
+-  Passionate about Autonomous Systems, Embedded Linux, and Robotics Software
+-  Learning more about: Yocto Project, Device Tree (DTS), Path Planning & Navigation algorithms
+-  Talk to me about: Robotics, Autonomous Systems, Embedded Linux, Competitive Programming
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamed073&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed073&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed073&theme=dark)](https://git.io/streak-stats)
+
 
 
 
